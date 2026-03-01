@@ -1,9 +1,11 @@
 import pandas as pd
 import plotly.graph_objects as go  # Importación de plotly.graph_objects como go
 import streamlit as st
+from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent
 # Leer los datos del archivo CSV
-car_data = pd.read_csv('vehicles_us.csv')
+car_data = pd.read_csv(BASE_DIR / "ds/vehicles_us.csv")
 
 # Crear un botón en la aplicación Streamlit
 hist_button = st.button('Construir histograma')
