@@ -1,9 +1,9 @@
 
 ## Proyecto: ADV - Analizador de Depreciacion Vehicular
 
-Aplicacion en python con streamlit para analizar como cambiael precio de vehiculos usados en funcion de:
+Aplicacion en python con streamlit para analizar el comportamiento del precio de vehiculos usados en funcion de:
 
-- Antigüedad  
+- Antiguedad  
 - Kilometraje  
 - OEM / Fabricante  
 - Distribución y dispersión de precios  
@@ -50,6 +50,6 @@ Sp07-ADV/
 ## Creditos / Autor
 
 Adrian Gil
-Data Analyst | Engineering Background 
+Data Scientist | Engineering Background 
 https://github.com/adriangil007
 https://www.linkedin.com/in/adriangilr/
