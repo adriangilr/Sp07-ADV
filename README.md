@@ -37,16 +37,16 @@ ds/vehicles_us.csv
   
 ## Estructura del proyecto
 
+```
 Sp07-ADV/
-│
-├── app.py
+├── app.py                # Aplicación Streamlit
 ├── ds/
-│ └── vehicles_us.csv
+│   └── vehicles_us.csv   # Dataset original
 ├── notebooks/
-│ └── EDA.ipynb
-├── requirements.txt
-└── README.md
-
+│   └── EDA.ipynb         # Análisis exploratorio
+├── requirements.txt      # Dependencias
+└── README.md             # Documentación
+```
 ## Creditos / Autor
 
 Adrian Gil
