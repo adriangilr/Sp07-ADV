@@ -100,10 +100,10 @@ if build_button:
 
     st.subheader("Métricas")
     c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Anuncios", f"{len(fdf):,}")
+    c1.metric("Ocurrencias", f"{len(fdf):,}")
     c2.metric("Precio promedio", f"${fdf['price'].mean():,.0f}")
     c3.metric("Precio mediano", f"${fdf['price'].median():,.0f}")
-    c4.metric("Edad promedio", f"{fdf['vehicle_age'].mean():.1f} años")
+    c4.metric("Antiguedad promedio", f"{fdf['vehicle_age'].mean():.1f} años")
 
     st.divider()
 

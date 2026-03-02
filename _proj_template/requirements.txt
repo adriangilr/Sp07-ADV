@@ -1,5 +1,0 @@
-streamlit==1.54.0
-pandas==2.3.3
-numpy==1.26.4
-pyarrow==9.0.0
-scipy
