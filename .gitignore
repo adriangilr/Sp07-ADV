@@ -206,6 +206,10 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+<<<<<<< HEAD
 # Project Folder settings
 .DS_Store
 Sp07-ADV.code-workspace
+=======
+.DS_Store
+>>>>>>> fa7b3e314192698280b8ba52f5b535039436e6f3

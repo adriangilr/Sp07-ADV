@@ -27,7 +27,7 @@ Este tipo de analisis es aplicable para:
 - Los vehículos más antiguos presentan mayor dispersión de precios.
 
 ## Dataset
-ds/vehicles_us.csv
+- ds/vehicles_us.csv
 
 ## Herramientas Empleadas
 - Python
@@ -50,8 +50,9 @@ Sp07-ADV/
 ## Creditos / Autor
 
 Adrian Gil
+
 Data Scientist | Engineering Background 
 
--https://github.com/adriangil007
+- https://github.com/adriangil007
 
--https://www.linkedin.com/in/adriangilr/
+- https://www.linkedin.com/in/adriangilr/
