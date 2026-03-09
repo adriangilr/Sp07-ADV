@@ -35,7 +35,7 @@ Este tipo de analisis es aplicable para:
 - Plotly Express – Visualizaciones interactivas  
 - Streamlit – Desarrollo de aplicación web  
   
-## Estructura del proyecto0
+## Estructura del proyecto
 
 ```
 Sp07-ADV/
