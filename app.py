@@ -171,3 +171,4 @@ if build_button:
 
     with st.expander("Ver muestra de datos filtrados"):
         st.dataframe(fdf.head(50))
+        
