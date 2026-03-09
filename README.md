@@ -53,6 +53,6 @@ Adrian Gil
 
 Data Scientist | Engineering Background 
 
-- https://github.com/adriangil007
+- https://github.com/adriangilr
 
 - https://www.linkedin.com/in/adriangilr/
